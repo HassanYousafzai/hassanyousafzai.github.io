@@ -1,4 +1,3 @@
-# Hassan Yousafzai
 
 ## 🚀 Data Scientist & ML Engineer
 
