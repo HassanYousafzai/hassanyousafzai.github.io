@@ -39,7 +39,7 @@ espninfo website
 City University of Science & Information Technology, Peshawar, PAKISTAN  
 
 #### BS(TE) (2011)
-National University of Computer & Emerging Sciences NUCES-FAST, Islamabad, PAKISTAN (2011)
+National University of Computer & Emerging Sciences NUCES-FAST, Islamabad, PAKISTAN
 
 ## Work Experience
 - #### Data Scientist & ML Engineer (2023 - Present)
