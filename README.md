@@ -38,7 +38,7 @@ espninfo website
 #### MS(CS) (2023)
 City University of Science & Information Technology, Peshawar, PAKISTAN  
 
-#### BS(TE) (2007)
+#### BS(TE) (2011)
 National University of Computer & Emerging Sciences NUCES-FAST, Islamabad, PAKISTAN (2011)
 
 ## Work Experience
