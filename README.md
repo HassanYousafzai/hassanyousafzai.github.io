@@ -14,7 +14,7 @@ Data Scientist & ML Engineer with an MS in Computer Science and hands-on experie
 
 ## Projects Experience
 
-### Sentiment Analysis of Amazon Fine Food Reviews 
+### [Sentiment Analysis of Amazon Fine Food Reviews](https://github.com/HassanYousafzai/Sentiment-Analysis-of-Amazon-Fine-Food-Reviews) 
 - Performed Natural Language Processing Python Project creating a Sentiment Analysis 
 classifier with NLTK's VADER and Huggingface Roberta Transformers
 - Dataset of Amazon Fine Food reviews was used from kaggle.com. The Dataset contained 
