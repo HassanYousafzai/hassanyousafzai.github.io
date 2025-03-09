@@ -1,7 +1,6 @@
 
 ## 🚀 Data Scientist & ML Engineer
 
-📍 Pakistan  
 📧 Email: hassan.yousafzai@gmail.com  
 🔗 LinkedIn: hassan-yousafzai  
 👨‍💻 GitHub: hassanyousafzai  
