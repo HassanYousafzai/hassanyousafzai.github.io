@@ -49,7 +49,7 @@ City University of Science & Information Technology, Peshawar, PAKISTAN
 National University of Computer & Emerging Sciences NUCES-FAST, Islamabad, PAKISTAN
 
 ## Work Experience
-- #### Data Scientist & ML Engineer (2023 - Present)
+- #### Data Scientist & ML Engineer (2021 - Present)
 Freelance
 - #### Asst Dir (Marketing) (2019 - 2025)
 DHA Peshawar
