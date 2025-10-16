@@ -1,65 +1,52 @@
+# Hassan Yousafzai — Agentic AI & ML Engineer
 
-## 🚀 Data Scientist & ML Engineer
+**I build autonomous systems that think, reason, and act.**  
+This repository contains my personal portfolio site and links to selected projects demonstrating multi-agent systems, LLM integrations, hybrid ML–simulation models, and other data/ML work.
 
-📧 Email: hassan.yousafzai@gmail.com  
-🔗 LinkedIn: [hassan-yousafzai](https://www.linkedin.com/in/hassan-yousafzai/)  
-👨‍💻 GitHub: [hassanyousafzai](https://github.com/HassanYousafzai)  
+---
 
-### About Me
-Data Scientist & ML Engineer with an MS in Computer Science and hands-on experience in Machine Learning projects. Proficient in Python, data analysis, and predictive modeling, eager to apply ML expertise to real-world challenges.
+## Live demo
+https://hassanyousafzai.github.io/
 
-### Technical Skills: 
-#### Programming: Python, SQL    
+---
 
-#### Visualization: Matplotlib, Seaborn, Power BI    
+## Featured projects
 
-#### Data Science & ML Tools: Scikit-learn, TensorFlow, PyTorch, NLP  
+### Agentic Compliance System
+- **Repo / Demo:** https://github.com/HassanYousafzai/compliance-multi-agent  
+- **Short description:** An architecture of autonomous agents that leverages LLMs, memory, and orchestration to monitor and reason about compliance workflows.  
+- **Tech:** LangChain, Python, vector DB (FAISS/Chroma), Docker.
 
-## Projects Experience
+### Hybrid ML–Simulation Material Model
+- **Repo / Demo:** (link to repo if present)  
+- **Short description:** Graph Neural Network and physics-informed hybrid model for predicting material properties by merging simulated and observed data.  
+- **Tech:** PyTorch, GNNs, simulation frameworks.
 
-### [Sentiment Analysis of Amazon Fine Food Reviews](https://github.com/HassanYousafzai/Sentiment-Analysis-of-Amazon-Fine-Food-Reviews) 
-- Performed Natural Language Processing Python Project creating a Sentiment Analysis 
-classifier with NLTK's VADER and Huggingface Roberta Transformers
-- Dataset of Amazon Fine Food reviews was used from kaggle.com. The Dataset contained 
-reviews as well as star ratings
-- Difference between model outputs from the two packages was analyzed and their results 
-were compared
+### Retrieval-Augmented Scientific Insights
+- **Repo / Demo:** (link to repo if present)  
+- **Short description:** Pipeline for ingesting scientific literature, creating vector embeddings, and building RAG-powered agents for domain Q&A.  
+- **Tech:** LangChain, FAISS/Chroma, transformers.
 
-### Economic Data Analysis Project  
-- Pulled Data from Federal Reserve Economic Data (FRED) website using their API.  The 
-Data contained different economic indicators 
-- Pandas were used to clean and join the Data. Matplotlib was used for visualization 
-- Unemployment Rate VS Participation rate of different States was compared
+> For a full list of projects see the `projects/` directory or visit my GitHub profile: https://github.com/HassanYousafzai
 
-### T20 World Cup Cricket Data Analytics 
-- Performed Data Analytics on T20 World Cup Cricket Data to build a team of Dream 11 
-Players
-- Used web scrapping (Through Bright Data) to scrap T20 Cricket World Cup Data from 
-espninfo website
-- Used Python, Pandas, and Jupyter Notebook for Data Transformation and Data Cleaning
-- Used Matplotlib and Seaborn for Data Visualization and preliminary insights
-- Built an interactive dashboard using Power BI to generate insights on the best 11 players
+---
 
-## Education 
+## About this site
+This is a GitHub Pages static site (HTML/CSS). The index page provides an overview of my skills, featured projects, education, and contact info. The site is intentionally minimal and optimized for recruiters and collaborators who want quick access to code and demos.
 
-#### MS(CS) (2023)
-City University of Science & Information Technology, Peshawar, PAKISTAN  
+---
 
-#### BS(TE) (2011)
-National University of Computer & Emerging Sciences NUCES-FAST, Islamabad, PAKISTAN
+## Tech stack & tools
+- Python, PyTorch, LangChain  
+- Vector DBs: FAISS, Chroma  
+- Graph Neural Networks (GNNs)  
+- Docker, AWS (basic deployments)  
+- Static site: GitHub Pages (HTML/CSS) — replace with Jekyll/Hugo if you prefer
 
-## Work Experience
-- #### Data Scientist & ML Engineer (2021 - Present)
-Freelance
-- #### Asst Dir (Marketing) (2019 - 2025)
-DHA Peshawar
-- #### Director (2012 - 2019)
-Technolinkers 
-- #### NOC Engineer (Intern) (2012 - 2012)
-Zong CMPak (Pvt) Ltd, Islamabad
-- #### Teaching Assistant (2008 - 2009)
-National University of Computer & Emerging Sciences, Peshawar
+---
 
-
-
-
+## How to run locally
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/HassanYousafzai/<repo-name>.git
+   cd <repo-name>
