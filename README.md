@@ -18,12 +18,12 @@ https://hassanyousafzai.github.io/
 - **Tech:** LangChain, Python, vector DB (FAISS/Chroma), Docker.
 
 ### Hybrid ML–Simulation Material Model
-- **Repo / Demo:** (link to repo if present)  
+- **Repo / Demo:** https://github.com/HassanYousafzai/Material-Design-ML-Model  
 - **Short description:** Graph Neural Network and physics-informed hybrid model for predicting material properties by merging simulated and observed data.  
 - **Tech:** PyTorch, GNNs, simulation frameworks.
 
 ### Retrieval-Augmented Scientific Insights
-- **Repo / Demo:** (link to repo if present)  
+- **Repo / Demo:** https://github.com/HassanYousafzai/rag-material-insights  
 - **Short description:** Pipeline for ingesting scientific literature, creating vector embeddings, and building RAG-powered agents for domain Q&A.  
 - **Tech:** LangChain, FAISS/Chroma, transformers.
 
